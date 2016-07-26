@@ -18,7 +18,7 @@ iOS 7.0 or later
 
 ## Installing
 
-[ZIPをダウンロード](https://github.com/amoad/amoad-nativelist-ios-sdk/archive/master.zip)
+[ZIPをダウンロード](https://github.com/amoad/amoad-nativelist-ios-sdk/archive/v4.7.zip)
 
 ## Usage
 
