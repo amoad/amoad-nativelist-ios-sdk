@@ -48,3 +48,4 @@ static NSString *const kSid = @"62056d310111552c00000000000000000000000000000000
 [ATS (App Transport Security) を抑制する](https://github.com/amoad/amoad-ios-sdk/wiki/Install#34-ats-app-transport-security-を抑制する)
 
 <img width="640" src="docs/res/ScreenShot04.png">
+
